@@ -57,9 +57,3 @@ This project successfully builds a logistic regression classifier for binary tum
 
 ---
 
-## 💡 Future Improvements
-- Apply other models like Random Forest or SVM for comparison
-- Perform cross-validation for more robust evaluation
-- Integrate into a Streamlit dashboard
-
----
